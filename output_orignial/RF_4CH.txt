@@ -1,0 +1,426 @@
+
+
+
+----------FOLD 0-------------
+
+
+
+Confusion Matrix :[[ 6  4]
+ [ 2 14]]
+
+Scoring:AUC
+Sensitivity:87.5
+Specificity:60.0
+Precision:77.77777777777779
+F1-Score:82.35294117647058
+F2-Score:85.3658536585366
+Accuracy:76.92307692307693
+Best paramters:{'bootstrap': 'False', 'class_weight': 'balanced_subsample', 'criterion': 'gini', 'max_features': 'auto', 'n_estimators': 45, 'warm_start': 'True'}
+
+
+----------FOLD 0-------------
+
+
+
+Confusion Matrix :[[ 8  2]
+ [ 3 13]]
+
+Scoring:Accuracy
+Sensitivity:81.25
+Specificity:80.0
+Precision:86.66666666666667
+F1-Score:83.87096774193549
+F2-Score:82.27848101265823
+Accuracy:80.76923076923077
+Best paramters:{'bootstrap': 'False', 'class_weight': 'balanced_subsample', 'criterion': 'entropy', 'max_features': 'sqrt', 'n_estimators': 15, 'warm_start': 'True'}
+
+
+----------FOLD 0-------------
+
+
+
+Confusion Matrix :[[ 5  5]
+ [ 3 13]]
+
+Scoring:Recall
+Sensitivity:81.25
+Specificity:50.0
+Precision:72.22222222222221
+F1-Score:76.47058823529412
+F2-Score:79.26829268292683
+Accuracy:69.23076923076923
+Best paramters:{'bootstrap': 'False', 'class_weight': 'balanced', 'criterion': 'gini', 'max_features': 'log2', 'n_estimators': 5, 'warm_start': 'False'}
+
+
+----------FOLD 0-------------
+
+
+
+Confusion Matrix :[[ 7  3]
+ [ 2 14]]
+
+Scoring:F1-Score
+Sensitivity:87.5
+Specificity:70.0
+Precision:82.35294117647058
+F1-Score:84.84848484848484
+F2-Score:86.41975308641976
+Accuracy:80.76923076923077
+Best paramters:{'bootstrap': 'False', 'class_weight': 'balanced', 'criterion': 'entropy', 'max_features': 'log2', 'n_estimators': 10, 'warm_start': 'True'}
+
+
+----------FOLD 0-------------
+
+
+
+Confusion Matrix :[[ 8  2]
+ [ 2 14]]
+
+Scoring:Precision
+Sensitivity:87.5
+Specificity:80.0
+Precision:87.5
+F1-Score:87.5
+F2-Score:87.5
+Accuracy:84.61538461538461
+Best paramters:{'bootstrap': 'False', 'class_weight': 'balanced', 'criterion': 'gini', 'max_features': 'auto', 'n_estimators': 20, 'warm_start': 'False'}
+
+
+----------FOLD 1-------------
+
+
+
+Confusion Matrix :[[ 9  1]
+ [ 3 13]]
+
+Scoring:AUC
+Sensitivity:81.25
+Specificity:90.0
+Precision:92.85714285714286
+F1-Score:86.66666666666667
+F2-Score:83.33333333333333
+Accuracy:84.61538461538461
+Best paramters:{'bootstrap': 'True', 'class_weight': 'balanced', 'criterion': 'gini', 'max_features': 'auto', 'n_estimators': 5, 'warm_start': 'False'}
+
+
+----------FOLD 1-------------
+
+
+
+Confusion Matrix :[[ 9  1]
+ [ 4 12]]
+
+Scoring:Accuracy
+Sensitivity:75.0
+Specificity:90.0
+Precision:92.3076923076923
+F1-Score:82.75862068965517
+F2-Score:77.92207792207793
+Accuracy:80.76923076923077
+Best paramters:{'bootstrap': 'False', 'class_weight': 'balanced', 'criterion': 'gini', 'max_features': 'sqrt', 'n_estimators': 5, 'warm_start': 'True'}
+
+
+----------FOLD 1-------------
+
+
+
+Confusion Matrix :[[ 8  2]
+ [ 3 13]]
+
+Scoring:Recall
+Sensitivity:81.25
+Specificity:80.0
+Precision:86.66666666666667
+F1-Score:83.87096774193549
+F2-Score:82.27848101265823
+Accuracy:80.76923076923077
+Best paramters:{'bootstrap': 'False', 'class_weight': 'balanced', 'criterion': 'gini', 'max_features': 'auto', 'n_estimators': 15, 'warm_start': 'True'}
+
+
+----------FOLD 1-------------
+
+
+
+Confusion Matrix :[[10  0]
+ [ 5 11]]
+
+Scoring:F1-Score
+Sensitivity:68.75
+Specificity:100.0
+Precision:100.0
+F1-Score:81.48148148148148
+F2-Score:73.33333333333334
+Accuracy:80.76923076923077
+Best paramters:{'bootstrap': 'True', 'class_weight': 'balanced', 'criterion': 'gini', 'max_features': 'log2', 'n_estimators': 10, 'warm_start': 'True'}
+
+
+----------FOLD 1-------------
+
+
+
+Confusion Matrix :[[10  0]
+ [ 3 13]]
+
+Scoring:Precision
+Sensitivity:81.25
+Specificity:100.0
+Precision:100.0
+F1-Score:89.65517241379311
+F2-Score:84.4155844155844
+Accuracy:88.46153846153845
+Best paramters:{'bootstrap': 'True', 'class_weight': 'balanced_subsample', 'criterion': 'entropy', 'max_features': 'auto', 'n_estimators': 10, 'warm_start': 'False'}
+
+
+----------FOLD 2-------------
+
+
+
+Confusion Matrix :[[ 7  3]
+ [ 0 16]]
+
+Scoring:AUC
+Sensitivity:100.0
+Specificity:70.0
+Precision:84.21052631578947
+F1-Score:91.42857142857143
+F2-Score:96.3855421686747
+Accuracy:88.46153846153845
+Best paramters:{'bootstrap': 'False', 'class_weight': 'balanced', 'criterion': 'gini', 'max_features': 'log2', 'n_estimators': 10, 'warm_start': 'True'}
+
+
+----------FOLD 2-------------
+
+
+
+Confusion Matrix :[[ 7  3]
+ [ 0 16]]
+
+Scoring:Accuracy
+Sensitivity:100.0
+Specificity:70.0
+Precision:84.21052631578947
+F1-Score:91.42857142857143
+F2-Score:96.3855421686747
+Accuracy:88.46153846153845
+Best paramters:{'bootstrap': 'False', 'class_weight': 'balanced', 'criterion': 'gini', 'max_features': 'log2', 'n_estimators': 10, 'warm_start': 'True'}
+
+
+----------FOLD 2-------------
+
+
+
+Confusion Matrix :[[ 6  4]
+ [ 0 16]]
+
+Scoring:Recall
+Sensitivity:100.0
+Specificity:60.0
+Precision:80.0
+F1-Score:88.88888888888889
+F2-Score:95.23809523809523
+Accuracy:84.61538461538461
+Best paramters:{'bootstrap': 'True', 'class_weight': 'balanced', 'criterion': 'gini', 'max_features': 'auto', 'n_estimators': 25, 'warm_start': 'True'}
+
+
+----------FOLD 2-------------
+
+
+
+Confusion Matrix :[[ 7  3]
+ [ 0 16]]
+
+Scoring:F1-Score
+Sensitivity:100.0
+Specificity:70.0
+Precision:84.21052631578947
+F1-Score:91.42857142857143
+F2-Score:96.3855421686747
+Accuracy:88.46153846153845
+Best paramters:{'bootstrap': 'False', 'class_weight': 'balanced_subsample', 'criterion': 'entropy', 'max_features': 'auto', 'n_estimators': 25, 'warm_start': 'True'}
+
+
+----------FOLD 2-------------
+
+
+
+Confusion Matrix :[[ 8  2]
+ [ 0 16]]
+
+Scoring:Precision
+Sensitivity:100.0
+Specificity:80.0
+Precision:88.88888888888889
+F1-Score:94.11764705882352
+F2-Score:97.5609756097561
+Accuracy:92.3076923076923
+Best paramters:{'bootstrap': 'False', 'class_weight': 'balanced', 'criterion': 'gini', 'max_features': 'log2', 'n_estimators': 10, 'warm_start': 'True'}
+
+
+----------FOLD 3-------------
+
+
+
+Confusion Matrix :[[ 8  2]
+ [ 5 11]]
+
+Scoring:AUC
+Sensitivity:68.75
+Specificity:80.0
+Precision:84.61538461538461
+F1-Score:75.86206896551724
+F2-Score:71.42857142857142
+Accuracy:73.07692307692307
+Best paramters:{'bootstrap': 'False', 'class_weight': 'balanced', 'criterion': 'entropy', 'max_features': 'sqrt', 'n_estimators': 10, 'warm_start': 'True'}
+
+
+----------FOLD 3-------------
+
+
+
+Confusion Matrix :[[ 8  2]
+ [ 4 12]]
+
+Scoring:Accuracy
+Sensitivity:75.0
+Specificity:80.0
+Precision:85.71428571428571
+F1-Score:80.0
+F2-Score:76.92307692307692
+Accuracy:76.92307692307693
+Best paramters:{'bootstrap': 'True', 'class_weight': 'balanced', 'criterion': 'entropy', 'max_features': 'sqrt', 'n_estimators': 30, 'warm_start': 'False'}
+
+
+----------FOLD 3-------------
+
+
+
+Confusion Matrix :[[ 9  1]
+ [ 4 12]]
+
+Scoring:Recall
+Sensitivity:75.0
+Specificity:90.0
+Precision:92.3076923076923
+F1-Score:82.75862068965517
+F2-Score:77.92207792207793
+Accuracy:80.76923076923077
+Best paramters:{'bootstrap': 'True', 'class_weight': 'balanced', 'criterion': 'gini', 'max_features': 'sqrt', 'n_estimators': 15, 'warm_start': 'True'}
+
+
+----------FOLD 3-------------
+
+
+
+Confusion Matrix :[[ 6  4]
+ [ 1 15]]
+
+Scoring:F1-Score
+Sensitivity:93.75
+Specificity:60.0
+Precision:78.94736842105263
+F1-Score:85.71428571428571
+F2-Score:90.36144578313254
+Accuracy:80.76923076923077
+Best paramters:{'bootstrap': 'False', 'class_weight': 'balanced_subsample', 'criterion': 'gini', 'max_features': 'auto', 'n_estimators': 5, 'warm_start': 'True'}
+
+
+----------FOLD 3-------------
+
+
+
+Confusion Matrix :[[ 8  2]
+ [ 2 14]]
+
+Scoring:Precision
+Sensitivity:87.5
+Specificity:80.0
+Precision:87.5
+F1-Score:87.5
+F2-Score:87.5
+Accuracy:84.61538461538461
+Best paramters:{'bootstrap': 'False', 'class_weight': 'balanced', 'criterion': 'gini', 'max_features': 'auto', 'n_estimators': 10, 'warm_start': 'False'}
+
+
+----------FOLD 4-------------
+
+
+
+Confusion Matrix :[[ 7  3]
+ [ 3 13]]
+
+Scoring:AUC
+Sensitivity:81.25
+Specificity:70.0
+Precision:81.25
+F1-Score:81.25
+F2-Score:81.25
+Accuracy:76.92307692307693
+Best paramters:{'bootstrap': 'False', 'class_weight': 'balanced_subsample', 'criterion': 'entropy', 'max_features': 'auto', 'n_estimators': 10, 'warm_start': 'True'}
+
+
+----------FOLD 4-------------
+
+
+
+Confusion Matrix :[[ 7  3]
+ [ 3 13]]
+
+Scoring:Accuracy
+Sensitivity:81.25
+Specificity:70.0
+Precision:81.25
+F1-Score:81.25
+F2-Score:81.25
+Accuracy:76.92307692307693
+Best paramters:{'bootstrap': 'True', 'class_weight': 'balanced', 'criterion': 'gini', 'max_features': 'auto', 'n_estimators': 15, 'warm_start': 'True'}
+
+
+----------FOLD 4-------------
+
+
+
+Confusion Matrix :[[ 8  2]
+ [ 3 13]]
+
+Scoring:Recall
+Sensitivity:81.25
+Specificity:80.0
+Precision:86.66666666666667
+F1-Score:83.87096774193549
+F2-Score:82.27848101265823
+Accuracy:80.76923076923077
+Best paramters:{'bootstrap': 'False', 'class_weight': 'balanced', 'criterion': 'entropy', 'max_features': 'sqrt', 'n_estimators': 20, 'warm_start': 'True'}
+
+
+----------FOLD 4-------------
+
+
+
+Confusion Matrix :[[ 8  2]
+ [ 3 13]]
+
+Scoring:F1-Score
+Sensitivity:81.25
+Specificity:80.0
+Precision:86.66666666666667
+F1-Score:83.87096774193549
+F2-Score:82.27848101265823
+Accuracy:80.76923076923077
+Best paramters:{'bootstrap': 'False', 'class_weight': 'balanced', 'criterion': 'entropy', 'max_features': 'log2', 'n_estimators': 30, 'warm_start': 'False'}
+
+
+----------FOLD 4-------------
+
+
+
+Confusion Matrix :[[ 8  2]
+ [ 3 13]]
+
+Scoring:Precision
+Sensitivity:81.25
+Specificity:80.0
+Precision:86.66666666666667
+F1-Score:83.87096774193549
+F2-Score:82.27848101265823
+Accuracy:80.76923076923077
+Best paramters:{'bootstrap': 'False', 'class_weight': 'balanced_subsample', 'criterion': 'entropy', 'max_features': 'log2', 'n_estimators': 10, 'warm_start': 'False'}
